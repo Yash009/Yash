@@ -1294,7 +1294,7 @@ header .logo a {
  * ------------------------------------------------------------------- 
  */
 #intro {
-	background: #151515 url("../cover.jpg") no-repeat center bottom;
+	background: #151515 url("https://s24.postimg.org/ib37pc82t/Cover.jpg") no-repeat center bottom;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	background-size: cover;

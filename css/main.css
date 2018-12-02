@@ -2564,5 +2564,14 @@ footer .copyright span:last-child::after {
 		font-size: 12px;
 	}
 }
-
+.download-resume {
+	font-size: 3em;
+	color: #FF0077 !important;
+	margin-bottom: 1em;
+}
+.download-resume-link {
+	border: 3px solid #FF0077;
+	padding: 0.5em;
+	cursor: pointer;
+}
 /*# sourceMappingURL=main.css.map */

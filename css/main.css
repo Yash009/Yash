@@ -1092,7 +1092,6 @@ header .logo a {
  */
 .menu-toggle {
 	float: left;
-	width: 40px;
 	height: 40px;
 	margin-left: 105px;
 	margin-top: 13px;
@@ -2573,5 +2572,14 @@ footer .copyright span:last-child::after {
 	border: 3px solid #FF0077;
 	padding: 0.5em;
 	cursor: pointer;
+}
+@media (max-width:500px) {
+	.download-resume {
+		font-size: 1.5em;
+	}
+}
+.top-menu.top-menu {
+	left: 0;
+	width: 100%;
 }
 /*# sourceMappingURL=main.css.map */

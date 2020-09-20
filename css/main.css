@@ -2582,4 +2582,8 @@ footer .copyright span:last-child::after {
 	left: 0;
 	width: 100%;
 }
+.row.topRow {
+	width: none;
+	max-width: 100%;
+}
 /*# sourceMappingURL=main.css.map */
